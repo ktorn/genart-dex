@@ -1,0 +1,24 @@
+{
+  "name": "genart-dex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPLv3",
+  "dependencies": {
+    "ipfs-http-client": "^55.0.0",
+    "it-all": "^1.0.6",
+    "lokijs": "^1.5.12",
+    "node-dir": "^0.1.17",
+    "node-fetch": "^2.6.7",
+    "tar": "^6.1.11",
+    "uint8arrays": "^3.0.0",
+    "yargs": "^17.3.1"
+  },
+  "type": "module"
+}
